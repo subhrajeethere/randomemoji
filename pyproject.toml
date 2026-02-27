@@ -1,11 +1,11 @@
 [project]
-name = "randomemoji"
+name = "produceemoji"
 version = "0.1.0"
-description = "This is a random emoji generator"
+description = ""
 authors = [
     {name = "Subhrajeet Panda",email = "260500849+subhrajeethere@users.noreply.github.com"}
 ]
-requires-python = ">=3.8"
+requires-python = "3.8"
 dependencies = [
 ]
 
