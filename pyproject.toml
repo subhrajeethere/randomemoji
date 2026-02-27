@@ -5,11 +5,11 @@ description = "This is a random emoji generator"
 authors = [
     {name = "Subhrajeet Panda",email = "260500849+subhrajeethere@users.noreply.github.com"}
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.8"
 dependencies = [
 ]
 
 
 [build-system]
-
+requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
